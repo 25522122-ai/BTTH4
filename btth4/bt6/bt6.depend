@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1779981157 source:c:\users\admin\onedrive\documents\custom office templates\it002 oop\btth4\bt6\cvector.cpp
+	"CVector.h"
+
+1779981184 c:\users\admin\onedrive\documents\custom office templates\it002 oop\btth4\bt6\cvector.h
+	<iostream>
+
+1779981145 source:c:\users\admin\onedrive\documents\custom office templates\it002 oop\btth4\bt6\main.cpp
+	"CVector.h"
+
